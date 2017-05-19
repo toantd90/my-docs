@@ -1,0 +1,57 @@
+------------------------------
+Module, Export & require
+
+Node.js Event Emitter
+
+JS hoisting -> use strict: JavaScript in strict mode does not allow variables to be used if they are not declared.
+
+Require node version by defining "engines" in packages.json file
+
+var & let
+------------------------------
+
+
+Javascript ES6 : 
+ - Compare ES5 - ES6
+ - class, extends, arrow function, generator, const, let...
+ 
+Callback function
+
+Promise
+
+Express
+ - middle ware
+ - HTTP: GET, POST, PUT, DELETE
+
+Authentication
+ - JWT, token bearer, OAuth2, OpenID connect
+ - Passport
+
+Unit test sử dụng mocha - chai - sinon - chai promise
+
+Script tự động sử dụng gulp
+
+Javascript Closures
+
+JS apply bind call
+
+dependencies & devDependencies
+exports & module.exports
+
+Javascript inherritance
+
+JS design pattern
+
+Jenkin
+
+CICD ???
+
+Functional programming js
+
+Immutable-js
+
+Nodejs Process
+
+https://nhanweb.wordpress.com/2016/05/02/bai-7-vong-lap-su-kien-event-loop/
+
+
